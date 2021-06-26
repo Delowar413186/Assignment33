@@ -1,0 +1,73 @@
+@media all and (max-width:1520px){
+   
+    .fixdwithd {
+        width:100%;
+        min-width: 100%;
+        margin: auto;
+        padding: 0 20px;
+    }
+}
+@media all and (max-width:1290px) {
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+    .menu {
+        width: 100%;
+        text-align: center;
+    }
+}
+@media all and (max-width:1200px){
+    .img{
+        margin-left: 242px;
+        margin-bottom: 15px;
+    }
+    .text{
+       text-align: center;
+    }
+}
+@media all and (max-width:1240px){
+    .item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media all and (max-width:990px){
+    .img{
+        margin-left: 142px;
+        margin-bottom: 15px;
+    }
+}
+@media all and (max-width:812px) {
+    .menu ul li {
+        padding: 0px 6px;
+        border: none;
+    }
+    .banner h1{
+        font-size: 17px;
+    }
+    .banner h3{
+        font-size: 19px;
+}
+@media all and (max-width:766px){
+    .img{
+        margin-left: 42px;
+        margin-bottom: 15px;
+    }
+}
+@media all and (max-width:677px){
+    .footer-left {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .footer-right {
+        width: 100%;
+        text-align: center;
+    }
+}
+@media all and (max-width:462px){
+    .menu ul li {
+        padding: 0px 36px;
+    }
+}
